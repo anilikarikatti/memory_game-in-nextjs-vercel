@@ -1,7 +1,10 @@
 # Create React App
 for run : 
 
-[for run](trying-vercel-anilikarikatti.vercel.app)
+copy any path to url :
+
+
+trying-vercel-anilikarikatti.vercel.app
 
 
 
