@@ -4,7 +4,7 @@ for run :
 copy any path to url :
 
 
-[for run]:(https://trying-vercel-anilikarikatti.vercel.app/)
+for run [for run](https://trying-vercel-anilikarikatti.vercel.app/)
 
 
 
